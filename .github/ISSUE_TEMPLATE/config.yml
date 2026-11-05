@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/cameri/nostream/security/advisories/new
+    about: Please do not open a public issue for a vulnerability. Report it privately; SECURITY.md lists the supported versions.
+  - name: Ask in the development chat
+    url: https://t.me/nostream_dev
+    about: Questions about running or deploying nostream, and talk with other operators and contributors.
